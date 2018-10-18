@@ -109,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/php-fpm/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -419,12 +419,12 @@
       <workItem from="1539615957746" duration="6950000" />
       <workItem from="1539707620769" duration="4162000" />
       <workItem from="1539801341325" duration="2467000" />
-      <workItem from="1539805010754" duration="913000" />
+      <workItem from="1539805010754" duration="982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24587000" />
+    <option name="totallyTimeSpent" value="24656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="809" extended-state="6" />
@@ -864,7 +864,7 @@
     <entry file="file://$PROJECT_DIR$/php-fpm/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
         </state>
       </provider>
     </entry>
